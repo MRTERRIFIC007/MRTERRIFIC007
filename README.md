@@ -16,7 +16,7 @@ i dont use arch btw
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<img src='[https://www.reddit.com/r/ProgrammerHumor/comments/yram4y/should_take_just_5_mins_right_right/'](https://external-preview.redd.it/n9so3gksr8QmHQwyBu4XmQM3mY10cSS6yKhoOY9amos.png?width=960&crop=smart&auto=webp&s=0a935c7cb7d086ef436843bce72e92ee88ae75a9) style="height: 400px;"/>
+<img src='https://external-preview.redd.it/n9so3gksr8QmHQwyBu4XmQM3mY10cSS6yKhoOY9amos.png?width=960&crop=smart&auto=webp&s=0a935c7cb7d086ef436843bce72e92ee88ae75a9' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mrterrific007&icon=0&color=0)](https://visitcount.itsvg.in)
