@@ -15,7 +15,7 @@ i dont use arch btw
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+### SOME MORE QUOTES 
 <img src='https://external-preview.redd.it/n9so3gksr8QmHQwyBu4XmQM3mY10cSS6yKhoOY9amos.png?width=960&crop=smart&auto=webp&s=0a935c7cb7d086ef436843bce72e92ee88ae75a9' style="height: 400px;"/>
 
 ---
