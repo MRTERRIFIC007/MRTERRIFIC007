@@ -1,1 +1,1 @@
-Hey! This is me
+this place is where a bio is suppose to be
