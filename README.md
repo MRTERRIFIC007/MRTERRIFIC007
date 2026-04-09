@@ -2,7 +2,6 @@
 
 Software developer working at the intersection of large language models and practical software engineering. I build AI-powered developer tools, full-stack web apps, and the occasional iOS side project.
 
-I think in React, dream in Rust, and ship with TypeScript.
 
 ---
 
